@@ -1,0 +1,11 @@
+Testy:
+liczby: a=0;b=1;c=2 
+program konczy sie
+liczby: a=1;b=0;c=0
+program przechodzi do obliczania d=0 ,nastepnie X0=0, po czym wypisuje X0 i konczy dzialanie programu
+liczby: a=1;b=-5;c=6
+program przechodzi do obliczania d=1 ,nastepnie X1=2, X2=3 po czym wypisuje X1 i X2 i konczy dzialanie programu
+liczby a=2,b=1,c=1
+program przechodzi do obliczania d=-7 ,nastepnie wypisuje napis nie ma pierwiastkow i konczy dzialanie programu
+W wypadku deklarowania typu danych wartosc nie moze przekraczac swoich rozmiarow
+np.: gdyby a,b lub c bylo wartoscia powyzej 2^31, program nie zadzialalby poprawnie
